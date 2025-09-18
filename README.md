@@ -9,5 +9,5 @@ Users can enter a city name and get real-time weather details using an external 
 - Powered by a public weather API (e.g., OpenWeatherMap) 🔗
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, CSS
+- **Frontend:** React.js
 - **Others:** Fetch / Axios for API calls
